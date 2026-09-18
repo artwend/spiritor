@@ -1,0 +1,47 @@
+# Build directories
+cmake-build-*/
+build/
+build-*/
+out/
+bin/
+lib/
+
+# CMake
+CMakeLists.txt.user
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+Testing/
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
+*.cbp
+
+# Compiler / linker output
+*.o
+*.obj
+*.exe
+*.dll
+*.lib
+*.a
+*.exp
+*.ilk
+*.pdb
+*.idb
+
+# IDE
+.idea/
+.vs/
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.swp
+*~
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
