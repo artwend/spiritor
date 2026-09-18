@@ -1,5 +1,7 @@
 # spiritor
 
+> **Disclaimer:** This project is for educational purposes only.
+
 A Windows utility that reads game log files, watches them for changes, and executes Lua-driven automation scripts by sending keyboard input via the [Interception driver](https://github.com/oblitum/Interception).
 
 ## Features
